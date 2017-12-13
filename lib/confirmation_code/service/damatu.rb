@@ -20,8 +20,8 @@ module ConfirmationCode
       RECOGNITION_ERROR_URL = File.join(HOST, 'app/d2ReportError?')
 
       attr_reader :app_key, :app_id
-      @app_id = '41635'
-      @app_key = '0f80784a5ff20d38df3977e461e3d82a'
+      @app_id = '52186'
+      @app_key = '2bad7361d74c150475ccb4c3dba35744'
 
 
       def set_extra_options(options)
